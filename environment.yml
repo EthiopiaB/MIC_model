@@ -4,5 +4,6 @@ channels:
   - defaults
 dependencies:
   - pandas
+  - papermill
 prefix: C:\Users\etiopia\Anaconda2
 
